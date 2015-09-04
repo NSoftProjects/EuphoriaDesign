@@ -41,3 +41,14 @@
 [12:43:48] Jose: .... bien, no es necesariamente malo pero otra formula seria no hacer iniciativa y seguir el mismo proceso:
 [12:44:28] Jose: todos los monstruos atacan a todos los jugadores, se asigna el daño a los monstruos y tal (y a los jugadores tambien) pero los monstruos no mueren hasta el final de la ronda por mucho daño que acumulen
 [12:44:49] Jose: (si al final nos decidimos por las iniciativas este efecto de 'los monstruos no mueren' podria ser un evento diario xd)
+
+AÑADIDO::
+--Nuevo atributo: iniciativa.
+--Inicio de cada ronda de combate se hace una tirada de iniciativa.
+--Por orden de iniciativa cada jugador escoge un monstruo que no haya atacado y le hace atacar a otro jugador (el ataque es siempre intercambio de golpes).
+--cuando todos los monstruos hayan atacado cada jugador decide si ataca o no a otro jugador (por orden inverso de iniciativa?).
+--finaliza la subfase de combate (recuerda que eran 3 obligatorias)
+
+--combate CC y combate distancia pasan a ser un unico atributo 'combate'
+--en general las armas a distancia daran bonus a la iniciativa y seran mas flojas
+--objetos/armas pueden penalizar la iniciativa (tambien trampas y eventos de jugador)
