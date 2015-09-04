@@ -1,0 +1,43 @@
+[12:33:19] Jose: ahora sobre el sistema de combate
+[12:33:21] Jose: *********************************
+[12:33:36] Jose: tenemos que cambiar alguna cosa porque es demasiado confuso....
+[12:33:45] Jose: ... cuando hay mas de un bicho en el sitio, quiero decir.
+[12:34:10] Jose: ... pero lo de 'forzar tres rondas y luego permitir huidas' me sigue gustando bastante y, de nuevo, creo que es algo que nos diferencia de otras cosas que hay por ahi y que deberiamos mantener a toda costa
+[12:34:28] Jose: ... no se si recuerdas como iba... xd
+[12:35:02] Nikkolai Mitrofanovich Krylov: si algo pero que es lo que crees que causa confunsion
+[12:35:23] Jose: el tema de que pasa si en la misma casilla se juntan un par de bichos y un par de jugadores... quien pelea con quien y tal ... xd
+[12:35:43] Nikkolai Mitrofanovich Krylov: el orden lo teníamos claro
+[12:35:54] Nikkolai Mitrofanovich Krylov: es decir si no recuerdo mal la iniciativa era por orden de llegada
+[12:35:58] Jose: hicimos un intento de sistema de alianzas o algo asi ... o eso creo.... pero yo seguiria una formula mas sencilla
+[12:36:14] Nikkolai Mitrofanovich Krylov: a no ser que quisieras meter algún atributo no modificable de iniciativa a los pjs
+[12:36:25] Nikkolai Mitrofanovich Krylov: y en cuanto a los bichos
+[12:36:39] Nikkolai Mitrofanovich Krylov: pues atacaran por orden de llegada de pjs
+[12:36:41] Nikkolai Mitrofanovich Krylov: por ejemplo
+[12:36:44] Nikkolai Mitrofanovich Krylov: es decir hay dos bichos
+[12:36:51] Nikkolai Mitrofanovich Krylov: hay 3 bichos mejor
+[12:37:00] Nikkolai Mitrofanovich Krylov: el primero al primer pj que llego
+[12:37:05] Nikkolai Mitrofanovich Krylov: el segundo al segundo pj que llego
+[12:37:14] Nikkolai Mitrofanovich Krylov: y vuelta a empezar el tercero al primer pj
+[12:37:26] Nikkolai Mitrofanovich Krylov: o si hubiese 3 pjs pues al tercero
+[12:37:44] Nikkolai Mitrofanovich Krylov: porque si todos atacan al pj que estaba allí pues no tiene nada que hacer
+[12:38:05] Nikkolai Mitrofanovich Krylov: o hacerlo ramdon que una mano inocente tire dado
+[12:38:08] Jose: mira, yo tengo otra idea que me parece mas sencilla
+[12:38:22] Nikkolai Mitrofanovich Krylov: hombre tu idea puede
+[12:38:25] Nikkolai Mitrofanovich Krylov: ser mejor pero esta complicada no es
+[12:38:32] Nikkolai Mitrofanovich Krylov: es solo repartir bichos uno por tio
+[12:38:33] Nikkolai Mitrofanovich Krylov: xd
+[12:38:49] Jose: ya ya.... pero tienes que andar repartiendo bichos y recordando el orden... y ten en cuenta que el combate podia prolongarse varios turnos xd
+[12:38:51] Jose: mira...
+[12:39:53] Jose: primero se determina un orden de iniciativa (al azar puro o con alguna tirada de atributo que podria ser uno nuevo atributo... que me gusta mucho la idea, por cierto... epro bueno, es lo de menos, lo de un atributo nuevo habria que discutirlo cara a cara que podamos pegarnos xd)
+[12:40:27] Nikkolai Mitrofanovich Krylov: si nos tenemos que pegar gano yo que soy mas fuerte
+[12:40:32] Jose: xd
+[12:41:02] Jose: entonces, despues de eso, cada monstruo ataca por orden  de iniciativa (de peor a mejor) a cada uno de los jugadores....
+[12:41:25] Nikkolai Mitrofanovich Krylov: un seg la nena
+[12:41:29] Jose: ok
+[12:41:39] Jose: lo voy escribiendo aqui para copiarmelo luego
+[12:42:24] Jose: ... y despues de eso cada jugador decide si quiere atacara  a otro jugador o prefiere no hacer nada (porque atacar es 'un cruce de tiradas' es decir, nos pegamos uno a otro y siempre tendre riesgo de decidir daño)
+[12:42:48] Jose: ... luego, la iniciativa puede generarse en cada fase del combate o solo una vez al principio....
+[12:43:32] Jose: ... esto puede tener la pega de que la iniciativa es super importante (habria que testearlo) ya que el jugador que gane es el ultimo en ser atacado por los bichos y puede que los bichos hayan muerto para cuando le toque recibir a el....
+[12:43:48] Jose: .... bien, no es necesariamente malo pero otra formula seria no hacer iniciativa y seguir el mismo proceso:
+[12:44:28] Jose: todos los monstruos atacan a todos los jugadores, se asigna el daño a los monstruos y tal (y a los jugadores tambien) pero los monstruos no mueren hasta el final de la ronda por mucho daño que acumulen
+[12:44:49] Jose: (si al final nos decidimos por las iniciativas este efecto de 'los monstruos no mueren' podria ser un evento diario xd)

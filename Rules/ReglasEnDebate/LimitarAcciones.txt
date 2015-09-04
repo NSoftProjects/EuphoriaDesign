@@ -1,0 +1,51 @@
+[12:13:34] Jose: mira una de las cosas que he pensado  es limitar el numero de acciones en plan 'solo una accion de cada tipo por turno' o quiza 'por casilla' porque, si recuerdas,  al final si querias robar una carta de arma a base de quemar puntos la acababas sacando....
+[12:13:54] Nikkolai Mitrofanovich Krylov: me parece bien algo de eso te iba a comentar
+[12:14:01] Nikkolai Mitrofanovich Krylov: es que sino los "físicos" eran muchos mejores
+[12:14:07] Nikkolai Mitrofanovich Krylov: porque en combate eran la leche
+[12:14:20] Nikkolai Mitrofanovich Krylov: pero para conseguir armas si eran malos soloe ra cuestión de como tu dices quemar puntos
+[12:14:23] Nikkolai Mitrofanovich Krylov: un turno hasta conseguirla
+[12:14:30] Jose: eso o recalcular los puntos de accion que tiene cada personaje para que, mas o menos, a cada uno le de para hacer 'entre 2 y 5 acciones'(es un ejemplo)
+[12:14:39] Jose: exacto
+[12:15:51] Jose: ahora bien... otros juegos en lugar de 'puntso de accion' lo que tienen es 'se pueden hacer tantas acciones por turno sin repetir'.... que es una buena formula pero creo que deberiamos mantener nuestro sistema de PAs  (arreglandolo como te digo, eso si) porque es una de las cosas que nos diferencian
+[12:16:33] Nikkolai Mitrofanovich Krylov: no me acuerdo exactamente como era
+[12:16:34] Nikkolai Mitrofanovich Krylov: pero
+[12:16:50] Nikkolai Mitrofanovich Krylov: que tal que el tio físico de combate por ejemplo le cueste buscar armas 2
+[12:16:51] Nikkolai Mitrofanovich Krylov: o 3
+[12:17:00] Nikkolai Mitrofanovich Krylov: y el que las busca 2 o 1
+[12:17:01] Nikkolai Mitrofanovich Krylov: es decir
+[12:17:11] Nikkolai Mitrofanovich Krylov: penalizar a uno y/o bonificar a otro
+[12:17:19] Nikkolai Mitrofanovich Krylov: para que digamos el que no es experto en combate
+[12:17:29] Nikkolai Mitrofanovich Krylov: tenga ventaja al poder conseguir armas mas rapidas
+[12:17:30] Nikkolai Mitrofanovich Krylov: o items
+[12:18:43] Jose: esa ventaja ya esta reflejada en el atributo corespondiente.... ... uno 'malo' tiraria un solo dado mientras que uno bueno tiraria 3 o 4 (no recuerdo donde pusimos el limite)... ... si se limita a 'una sola accion de buscar por turno' entonces el malo lo tiene muy chungo mientras que el bueno lo tiene mucho mas facil
+[12:19:06] Nikkolai Mitrofanovich Krylov: ya pero si tu tiras 1 dado pero puedes hacerlo 4 veces ....
+[12:19:07] Nikkolai Mitrofanovich Krylov: al final...
+[12:19:32] Jose: no no... ... es 'un uso por turno'... ... tiras tu dado y falles o no esa accion no puedes hacerla otra vez
+[12:20:03] Nikkolai Mitrofanovich Krylov: ah es que ya no me acuerod
+[12:20:03] Nikkolai Mitrofanovich Krylov: xd
+[12:20:10] Nikkolai Mitrofanovich Krylov: entonces no he dicho nada
+[12:20:10] Nikkolai Mitrofanovich Krylov: xd
+[12:20:28] Jose: lo de 'un uso por turno' no lo hicimos la ultima vez, es el arreglo que propongo, ojo... es normal que no te acuerdes xd
+[12:20:51] Nikkolai Mitrofanovich Krylov: pues un uso por turno me parece buena solución asi desde la distancia
+[12:21:00] Nikkolai Mitrofanovich Krylov: luego jugando se vera pero parece buena
+[12:21:56] Jose: ahora, otra cosa que debemos hacer es ajustar el numero de puntos de accion de los personajes (que creo qu eno lo hicimos) en relacion a lo que podrian moverse por las casillas 'normales'... de modo que, digamos, el personaje 'normal en moverse' pueda moverse, digamos, 3 casillas por ese tipo de terreno...
+[12:22:10] Jose: ... o mejor 4...
+[12:22:17] Jose: ... el bueno 6 y el malo 2....
+[12:22:24] Nikkolai Mitrofanovich Krylov: si pero el ajustar es mejor hacerlo en tablero
+[12:22:27] Nikkolai Mitrofanovich Krylov: no por aki probando
+[12:22:31] Nikkolai Mitrofanovich Krylov: creo yo
+[12:22:51] Jose: claro claro, tienes razon, pero es por que tengas la misma vision que yo de como quedara la mecanica... ahora no nos vamos a poner a concretar numero xd
+[12:23:08] Jose: ... el movimiento si recuerdsa dependia tambien de los puntos de accion...
+[12:23:18] Nikkolai Mitrofanovich Krylov: si
+[12:23:49] Jose: ... y luego tenemos libertad para hacer que en tal o cual casilla cada accion (fabricarte un arma por ejemplo) cueste mas o menos puntos (lo teniamos marcado en la casilla)....
+[12:24:09] Nikkolai Mitrofanovich Krylov: ok
+[12:24:17] Jose: ... lo suyo creo que es hacer algo parecido para los costes... tener un 'estandar' (que, por ejemplo, coincida con el de movimiento basico) y calcular el resto a partir de ahi...
+[12:24:30] Jose: ... asi normalizamos todos los posibles usos de los PAs
+[12:26:20] Jose: ... ponemos un coste 'normal' (tanto para moverse como para fabricarte armas) de 2, por ejemplo...  entonces un personaje que tuviera 6, por ejemplo (digamos que es el 'normal') podria fabricarse arma como maximo una vez y luego moverse 2 casillas..... fabricar armas, buscar agua y moverse una casilla....
+[12:26:28] Jose: ... por supuesto siempre que se mantenga dentro de casilla con ese coste basico...
+[12:26:44] Jose: en cuanto empiece a meterse en sitios raros pue se vera limitado...
+[12:27:32] Jose: ... y, en general, mantener el numero de acciones que puede realizar cada personaje (dependiendo de sus PAs y donde este intentando hacerlas) entre, digamos, 1 y 6 como maximo
+[12:28:50] Jose: luego tendremos que pensar en los tipos de acciones que vamos a tener ... es decir, si fabricar arma y buscar item son el mismo tipo de accion o no de cara a la limitacion de un uso por turno...
+[12:28:55] Jose: en principio yo diria qu eno pero es algo a testear
+[12:29:16] Jose: deja que me copie toda esta reflexion xd
+[12:29:35] Jose: *****************
