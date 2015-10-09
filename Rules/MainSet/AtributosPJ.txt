@@ -5,12 +5,12 @@ COMBATE
 
 SUPERVIVENCIA
   Supervivencia
-  Improvisar armas/armas
+  Improvisar armas/trampas
   Buscar items
   Capacidad de carga
 
 ESTRATEGICOS
-  Puntos de accion
+  Puntos de accion -->pasan a ser puntos de movimiento y usarse solo para moverse. 
   Vida
   Panico
   
@@ -33,3 +33,4 @@ ESTRATEGICOS
 --- tramo 1: nada
 --- tramo 2: -1 dado a todas tus tiradas
 --- tramo 3: -1 dado a todas tus tiradas y +1 a su dificultad.
+

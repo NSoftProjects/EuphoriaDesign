@@ -16,3 +16,6 @@
 
 
 **No se puede repetir una accion en la misma fase.
+
+
+**Se puede realizar una una unica accion por fase sin pagar ningun coste de puntos de accion
