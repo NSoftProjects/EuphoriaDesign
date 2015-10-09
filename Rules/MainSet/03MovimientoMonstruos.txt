@@ -1,0 +1,4 @@
+
+-->Terrestres: se mueven siempre hacia el jugador mas cercano.
+
+-->Voladores: se mueven hacia un jugador determinado aleatoriamente (sin importar si estan ya en la misma casilla que otro)

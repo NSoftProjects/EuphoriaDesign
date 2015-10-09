@@ -1,0 +1,27 @@
+Mazo de escenarios.
+
+Mazo de misiones
+
+Mazo de eventos diarios
+
+Mazo de eventos de jugador
+
+Mazo de armas lvl1
+
+Mazo de armas lvl2
+
+Mazo de armas lvl3 -->pasa a ser 'Mazo de recompensas especiales' (ver fichero)
+
+Mazo de items (incluye armaduras)
+
+Mazo de trampas
+
+Fichas de monstruos
+
+Fichas de agua (panico de agua en el reverso)
+
+Fichas de comida (hambre en el reverso)
+
+Fichas de mejora (+1) a los atributos (-1 en el reverso)
+
+Fichas de objetivo cumplido (a lo firefly)

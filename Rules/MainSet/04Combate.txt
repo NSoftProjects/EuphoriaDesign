@@ -1,0 +1,43 @@
+En la fase de resolucion de combate se producen enfrentamientos entre todos los jugadores y criaturas que esten en la misma casilla. Las 
+criaturas nunca combaten entre ellas
+
+Al inicio de la fase de resolucion de combates se determina los combates que se van a producir y se resuelven.
+
+
+Cada fase de combate se divide en tres rondas. Al finar de cada tercera ronda los jugadores deciden por orden inverso de iniciativa si 
+desean huir del combate. Un jugador que huye del combate pierde 1d4 cartas de objeto al azar y se mueve 1d6 casillas en una direccion al azar sin tener en cuenta los costes de movimiento de las casillas). El combate continua hasta que solo quede un jugador en la casilla.
+
+
+si solo hay jugadores:
+-->Determinar orden de iniciativa (para todo el combate) (cada jugador tira 1d6 y suma su atributo de iniciativa).
+-->Por orden de iniciativa cada jugador hace un unico ataque a un unico jugador rival.
+
+
+1 jugador vs uno o varios monstruos.
+-->Se considera que los monstruos siempre tienen la iniciativa. Por lo demas se resuelve igual
+
+
+>1 jugador vs >1 monstruos
+-->Por orden de iniciativa cada jugador escoge un monstruo para que ataque a un jugador.
+-->una vez que todos los monstruos han atacado se resuelve como si solo hubiera jugadores.
+-->el combate continuara hasta que quede un unico jugador y ningun monstruo en la casilla o todos los jugadores hayan huido.
+
+
+
+*************************************
+Ataques.
+
+-->tiras tu valor de ataque mas el bonificador del arma contra la dificultad que indica el arma. El oponente tira su valor de defensa mas
+   el bonificador de armadura contra la dificultad que indique la armadura. Cada exito del defensor niega un exito del atacante. Cada exito
+   no negado resta uno de vida.
+
+
+
+
+
+
+**************************************
+Notas
+
+ cada vez que participas en un combate ganas una ficha de panico. (por combate, no por ronda ni fase)
+ cada vez que huyes de un combate ganas una ficha de panico.

@@ -1,0 +1,35 @@
+COMBATE
+  Iniciativa
+  Ataque
+  Defensa
+
+SUPERVIVENCIA
+  Supervivencia
+  Improvisar armas/armas
+  Buscar items
+  Capacidad de carga
+
+ESTRATEGICOS
+  Puntos de accion
+  Vida
+  Panico
+  
+
+
+
+
+
+
+
+
+*******************
+--Agua y comida no ocupan espacio de inventario
+--Los atributos van de 1 a 4 (excepto los estrategicos)
+
+
+*******************
+--Efectos del panico:
+
+--- tramo 1: nada
+--- tramo 2: -1 dado a todas tus tiradas
+--- tramo 3: -1 dado a todas tus tiradas y +1 a su dificultad.

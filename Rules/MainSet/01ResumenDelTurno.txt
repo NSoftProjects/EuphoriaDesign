@@ -1,0 +1,27 @@
+PREPARACION DE PARTIDA
+-----------------
+1º-Robar carta de escenario 
+   (es una carta que plantea de varios objetivos secuenciales (tres por ejemplo) que estaran activos durante toda la partida y que deben cumplirse por orden. El primer
+   jugador en cumplir el ultimo objetivo gana la partida.
+
+
+SECUENCIA DIARIA
+----------------
+
+->Preparacion del dia
+---->Actualizar mision (ponerle un contador. Si el numero de contadores sobre la carta es igual al numero de dias previstos para la mision se roba una nueva)
+---->Robar evento diario (un evento que afecta a todos los jugadores y que esta activo durante todo el dia).
+---->Se pone un monstruo al azar en una casilla al azar.
+
+
+
+->Fases (x3)
+---->Resolver acciones de jugador (ver fichero)
+---->Movimiento de monstruos (ver fichero)
+---->resolver combates (ver fichero)
+
+
+->Descanso (ver fichero)
+---->Pagar agua
+---->Pagar comida
+---->Refugiarse

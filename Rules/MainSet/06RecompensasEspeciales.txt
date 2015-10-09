@@ -1,0 +1,14 @@
+Representa objetos especialmente potentes proporcionados por la organizacion. Habra armas, armaduras, items, trampas, comodines (
+automaticamente cumples un objetivo de escenario) y una carta de monstruo chungo.
+
+La carta de escenario indica cuantas fichas de recompensas especiales se distribuyen inicialmente y como se colocan (por lo general
+aleatoriamente).
+
+Inicialmente en cada ficha de este tipo se coloca un 'Monstruo guardian'. Este monstruo no se mueve.
+
+Cuando un jugador destruye al monstruo guardian inmediatamente roba una carta de recompensa especial y aplica sus efectos.
+
+Durante la partida pueden aparecer nuevas recompensas especiales con cartas de eventos.
+
+Cada dia se tira 1d6 y a 4+ se coloca aleatoriamente una nueva recompensa especial con su correspondiente monstruo guardian.
+

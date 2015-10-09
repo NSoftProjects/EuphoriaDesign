@@ -1,0 +1,18 @@
+-->antes de resolver las acciones de jugador se roba un evento de jugador
+
+
+-->Movimiento: te mueves a una casilla adyacente y pagas el coste de puntos de accion que indica la casilla objetivo. Solo puedes desplazarte a casillas cuyo coste puedas pagar.
+
+-->Buscar (agua/comida): Tiras tu valor de supervivencia. La casilla marca la dificultad. Por cada exito consigues dos fichas de lo que estes buscando.
+
+-->Improvisar (armas): Tiras tu valor de improvisacion contra la dificultad que marca la casilla. Si consigues al menos un exito robas un arma del tipo que marca la casilla.
+
+-->Improvisar (trampas/items): Tiras tu valor de improvisacion contra la dificultad que marca la casilla. Si consigues al menos un exito robas una trampa.
+
+
+--> Esconderte: Gastas todos tus puntos de accion y haces una tirada de 'buscar refugio'. Si la superas los monstruos te ignoran durante esta fase.
+    No puedes realizar ninguna otra accion
+
+
+
+**No se puede repetir una accion en la misma fase.
