@@ -1,6 +1,6 @@
 Mazo de escenarios.
 
-Mazo de misiones
+Mazo de misiones (descartado de momento)
 
 Mazo de eventos diarios
 

@@ -1,0 +1,58 @@
+**************************************************************************************
+01 --- Celebracion anual
+   --preparacion--
+      Poner X recompensas especiales aleatoriamente.
+      Poner el monstruo 'cerbero' en una posicion (aleatoria o especifica (centro del tablero??)). ('cerbero' podria ser un tipo de monstruo 'chungo'
+      estilo los epicos del eldritch.). Un jugador que no haya cumplido los objetivos 1 y 2 no puede entrar bajo ninguna circunstancia en la casilla
+      del cerbero.
+     
+
+
+   --Paso1-- Consigue un punto por cada oponente en la partida (consigues un punto por cada personaje eliminado. Los puntos conseguidos pertenecen
+             al personaje y no al jugador.
+
+   --Paso2-- consigue una carta recompensa especial
+
+   --Paso3-- Derrota al cerbero.
+
+**************************************************************************************
+
+**************************************************************************************
+02 --- buscar el tesoro
+   --preparacion--
+     Poner (1/2)*(cantidad de jugadores) fichas genericas en puntos aleatorios del mapa. (con separacion minima entre ellas?)
+     Poner X recompensas especiales aleatoriamente.
+     Mezclar los items
+
+   --desarrollo--
+     Al inicio de cada dia ponemos un nuevo marcardor generico en el mapa.
+
+   --paso 1-- 'encontrar el mapa'
+     consigue ¿3? marcadores genericos (gastando tu accion en una casilla donde lo haya o luchando contra un jugador y matandole o haciendole huir)
+
+   --paso 2-- 'encontrar el tesoro'
+     Busca el tesoro en cualquier casilla de 'ruinas dorada'. Gasta una accion para robar tantas cartas de trampa como desees aplicando sus efectos
+     sobre ti mismo hasta encontrar una marcada como objetivo.
+
+   
+   --paso 3-- 'reclamar el juego'
+     lleva el tesoro al centro del mapa (o a casillas marcadas como salida). Si huyes de un combate pierdes el tesoro y tienes que repetir el paso 2
+
+
+*******************************************************************************************
+03 --- Aniversario 
+   --preparacion--
+      Poner X recompensas especiales aleatoriamente.
+
+
+
+
+
+
+   --Paso-- 'gran final'
+     Durante este paso las fichas de recompensa especial no se convierten en cartas. Consigue 4 fichas de recompensa especial. Una vez que las tengas
+     roba 4 fichas de mejora del tipo que prefieras y a continuacion tu y todos los jugadores os colocais en la casilla central y se resuelve
+     un combate del que no puedes huir. Si el resto de jugadores huyen o son derrotados ganas la partida.
+**************************************************************************************
+
+**************************************************************************************
