@@ -15,7 +15,7 @@ BUSCAR REFUGIO
  -Tira tu habilidad de supervivencia contra la dificultad de buscar refugio indicada en
   la casilla.
         --si superas: descartas dos fichas de panico. Descarta todas las fichas de
-          penalizadores de puntos de accion
+          penalizadores de puntos de accion y recuperas 2 vidas
 
         --si fallas: robas una ficha de panico y robas 1d4 fichas de -1 punto de accion
           

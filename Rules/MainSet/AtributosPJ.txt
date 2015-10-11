@@ -31,6 +31,6 @@ ESTRATEGICOS
 --Efectos del panico:
 
 --- tramo 1: nada
---- tramo 2: -1 dado a todas tus tiradas
---- tramo 3: -1 dado a todas tus tiradas y +1 a su dificultad.
+--- tramo 2: -1 dado a todas tus tiradas de combate
+--- tramo 3: -1 dado a todas tus tiradas de combate y +1 la dificultad de todas las tiradas (maximo 6)
 

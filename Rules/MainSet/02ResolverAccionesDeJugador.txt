@@ -10,8 +10,8 @@
 -->Improvisar (trampas/items): Tiras tu valor de improvisacion contra la dificultad que marca la casilla. Si consigues al menos un exito robas una trampa.
 
 
---> Esconderte: Gastas todos tus puntos de accion y haces una tirada de 'buscar refugio'. Si la superas los monstruos te ignoran durante esta fase.
-    No puedes realizar ninguna otra accion
+--> Esconderte: haces una tirada de 'buscar refugio'. Si la superas los monstruos te ignoran durante esta fase.
+    No puedes realizar ninguna otra accion. El turno en el que te escondes puedes desplazarte como maximo una unica casilla
 
 
 
