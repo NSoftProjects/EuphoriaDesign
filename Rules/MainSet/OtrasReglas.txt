@@ -1,0 +1,34 @@
+->cuando un jugador mata a otro le roba un objeto (o un par agua-comida)
+
+
+->los mazos de armas llevan al 50% armaduras:
+            --> lvl1 1/6+
+            --> lvl2 1/5+
+
+->cuando improvisas armas/armaduras si ya tienes una de las dos cosas puedes elegir (antes de empezar) continuar robando cartas del mazo correspondiente
+  hasta que te salga una carta de la otra cosa.
+
+
+->Huida imposible: cuando la huida es imposible el jugador se coloca en una casilla determinada al azar y pierde su siguiente fase. Una huida se 
+  considera imposible si el jugador no puede completar su movimiento de huida (1d6 casillas) o si lo termina en una casilla donde ya haya algun
+  monstruo o jugador
+
+->como maximo se pueden cargar 4 de agua y 4 de comida
+
+
+
+
+***pendientes de probar
+->Recompensa del publico: cada tres bichos muertos robas una ficha de mejora de atributo al azar
+->al final de cada dia se pone una ficha de daño en cada bicho
+->Huida: Hay que aguantar tres turnos sin huir. A partir de ahi cada jugador decide por orden inverso de iniciativa en cada ronda 
+  si quiere intentar huir en lugar de hacer su ataque. Para huir tiene que superar una tirada de 4+ contra jugadores y contra monstruos 
+  a 4+, 5+, 6+ (segun indique la ficha de monstruo).
+->Cambiamos las armas:
+  -->bonus de dados al ataque.
+  -->bonus a la tirada de dificultad para herir (al resultado de cada dado)  (lvl2)
+  -->bonus al nº de heridas que causa cada exito (en principio maximo 2).    (lvl3)
+  -->El atributo de defensa del personaje es lo que marca la dificultad para herir (3+, 4+, 5+, 6+).
+  -->Las armaduras lo que hacen es negar heridas  ( iran de 1 a 3)
+  -->La tirada de ataque es abierta (cada 6 se considera un exito siempre y ademas genera un dado extra)
+  

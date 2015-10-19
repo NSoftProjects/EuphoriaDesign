@@ -6,9 +6,9 @@ Mazo de eventos diarios
 
 Mazo de eventos de jugador
 
-Mazo de armas lvl1
+Mazo de armas y armaduras lvl1  (50% de cada)
 
-Mazo de armas lvl2
+Mazo de armas y armaduraslvl2  (50% de cada)
 
 Mazo de armas lvl3 -->pasa a ser 'Mazo de recompensas especiales' (ver fichero)
 

@@ -1,0 +1,5 @@
+por cada monstruo no volador cada fase, antes de moverlo, se tira 1d6:
+
+--1 a 3 se mueve hacia el jugador mas cercano.
+--4 a 5 se mueve hacia el ultimo objetivo que tuvo aunque no sea el mas cercano
+--6     se mueve hacia el ultimo objetivo que tuvo aunque no sea el mas cercano o este oculto
