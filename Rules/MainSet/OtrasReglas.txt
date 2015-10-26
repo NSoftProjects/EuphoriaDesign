@@ -31,4 +31,8 @@
   -->El atributo de defensa del personaje es lo que marca la dificultad para herir (3+, 4+, 5+, 6+).
   -->Las armaduras lo que hacen es negar heridas  ( iran de 1 a 3)
   -->La tirada de ataque es abierta (cada 6 se considera un exito siempre y ademas genera un dado extra)
+->item: cuando pase tal evento pasa tal cosa (por ejemlo, cuando ganas un combate robas una ficha extra de audiencia. Cuando
+        buscas comida obtienes uno extra, cuando improvisas un arma robas dos y te queads una....)
+->'correr a lo loco': gastas una accion, pagas x agua, z comida, haces una tirada de dificultad que depende del coste de movimiento
+   de la casilla destino y si la superas te puedes mover a ella
   
