@@ -1,0 +1,17 @@
+[21:44:33] Nikkolai Mitrofanovich Krylov: que te parece incluir algo asi en
+[21:44:46] Nikkolai Mitrofanovich Krylov: el manual, o en algún sitio donde "presentes" los pjs
+[21:44:58] Nikkolai Mitrofanovich Krylov: en plan "fichados por la pasma"
+
+
+****
+capacidad de carga: 1 (o 2) + lo que teniamos previsto sumar
+
+****
+fase de patrocinadores es un must.
+  juego de cartas estilo magic:
+    --Cartas de patrocinador: coste en puntos de audicencia (estilo mansiones y los puntos de amenaza).
+    --Roba cartas de patrocinador o de trampas/items para guardar o teledirigir a los jugadores.
+    --el gladiador consigue con sus acciones fichas de audiencia para su patrocinador (al ganar combates, con eventos de jugador
+      tipo 'el favorito del publico' y cosas asi)
+    --las cartas de patrocinador para putear a patrocinadores rivales, a gladiadores rivales o para beneficiar al propio.
+
