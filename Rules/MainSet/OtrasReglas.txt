@@ -35,4 +35,9 @@
         buscas comida obtienes uno extra, cuando improvisas un arma robas dos y te queads una....)
 ->'correr a lo loco': gastas una accion, pagas x agua, z comida, haces una tirada de dificultad que depende del coste de movimiento
    de la casilla destino y si la superas te puedes mover a ella
-  
+->Item: hoy realizas una accion extra pero:
+       --robas fichas de hambre/sed
+       -- y/o te cuesta puntos de movimiento
+       -- y/o sufres -X a la tirada de descansar de ese dia
+
+->las recompensas especiales pasan a estar custodiadas por un monstruo al azar y no por un Guardian. Asi se facilita el conseguirlas
