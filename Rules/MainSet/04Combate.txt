@@ -41,3 +41,9 @@ Notas
 
  cada vez que participas en un combate ganas una ficha de panico. (por combate, no por ronda ni fase)
  cada vez que huyes de un combate ganas una ficha de panico.
+
+
+****************************************
+ataques de monstruos
+ Los monstruos tienen un ataque especial (a lo mansiones). Una vez por combate (en el primer turno en el que el se puede huir del combate) el
+ monstruo tiene una oportunidad (5+??) de hacer el ataque especial en lugar del normal.
