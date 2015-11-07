@@ -1,2 +1,8 @@
 dificultad de buscar refugio:
  -->revisar a la alza desiertos/llanuras/rios
+
+
+el mazo de eventos de jugador se divide en:
+ --Publico satisfecho (cosas buenas)
+ --Pulbico insatisfecho (cosas malas del publico)
+ --'cosas que pasan' (accidentes y tal)

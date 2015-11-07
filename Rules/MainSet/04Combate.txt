@@ -47,3 +47,6 @@ Notas
 ataques de monstruos
  Los monstruos tienen un ataque especial (a lo mansiones). Una vez por combate (en el primer turno en el que el se puede huir del combate) el
  monstruo tiene una oportunidad (5+??) de hacer el ataque especial en lugar del normal.
+
+ Ademas cada monstruo puede tener una habilidad pasiva especial (que siempre esta fucionando) del estilo 'si al atacar a este monstruo
+ no consigues ningun exito robas una ficha de panico'
