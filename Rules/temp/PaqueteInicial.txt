@@ -1,0 +1,7 @@
+Necesitariamos para empezar un paquete basico con:
+4 personajes (los tres descritos arriba y uno a determinar) (tamaño a determinar).
+Una serie de armas (algunas improvisadas, otras de fabrica: garrote, piedra, lanza) (numero a determinar) (formato carta pequeño 4x6.5cm)
+Una serie de items (todos 'de fabrica') (numero a determinar) (formato carta pequeño 4x6.5cm)
+Una serie de trampas (todas improvisadas) (numero a determinar) (formato carta pequeño 4x6.5cm)
+4-6 monstruos (animales mutantes/alteraciones geneticas. Que sea razonablemente realista, partiendo de animales reales, no demasiado fantastico) (fichas de aproximadamente 4x4 cm)
+Reverso de los mazos de cartas.

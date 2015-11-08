@@ -1,0 +1,7 @@
+--La victima hace una prueba de iniciativa. Si falla sufre 1/2 de daño
+--Desplazas a la victima una casilla
+--+1 a la dificultad de huir (un solo uso)
+--Señuelo: recoloca el marcador de huida de un jugador.
+--Anula un terreno elevado durante un turno.
+--anula una cobertura durante un turno.
+--Señuelo (falso yo) Cuando un enemigo entra en tu casilla te desplazas automaticamente dos casillas

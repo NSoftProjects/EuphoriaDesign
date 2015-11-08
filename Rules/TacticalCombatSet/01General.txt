@@ -1,0 +1,41 @@
+--Tablero de 8x8 (en principio)
+--Todas las casillas tienen el mismo coste de movimiento que la casilla estrategica donde se desarrolla el combate
+--El combate tiene una duracion maxima de 6 turnos
+--Distintos tipos de casilla:
+    --Normal
+    --Posicion elevada (+1alcance/+1 a un unico dado en CaC siempre que el rival no este en una casilla del mismo tipo)
+    --Cobertura (-1 a un dado de cualquier tirada de ataque a distancia que se haga contra ti)
+    
+
+
+--Inicio de combate:
+    --Los jugadores se colocan en casillas al azar
+    --los monstruos se colocan al azar
+    --se colocan los marcadores de huida
+
+
+--Cuerpo a cuerpO
+    -- 2 o mas personajes estan cuerpo a cuerpo si ocupan la misma casilla.
+    -- solo entonces pueden usarse armas de cuerpo a cuerpo.
+    -- si un personaje *sale* de una casilla donde hay un enemigo automaticmaente recibe un ataque de oportunidad.
+
+--Huida:
+    --Se puede huir en cualquier momento.
+    --Solo se puede huir desde tu casilla marcada como 'casilla de huida' (con token especifico de personaje).
+    --Para huir sigue siendo necesario superar la tirada.
+    --Al inicio del combate y por orden de tirada de iniciativa cada jugador coloca un token de huida en una casilla del borde del mapa
+      (que no puede ser su propio token)
+    --Cuando un jugador intenta huir y falla el resto de jugadores implicados en el combate (o todos los jugadores si no hubiera otros
+      en el combate) hacen una tirada enfrentada de iniciativa. El ganador de la tirada coloca el toquen en una casilla distinta.
+
+
+--Trampàs tacticas
+    --Este set añade trampas al mazo de trampas del tipo 'trampa tactica'. Estas trampas, a diferencia de las normales, no se aplican sino que
+      se guardan para usarse durante los combates tacticos. Seran cosas tipo 'hacer daño' 'quedar sin municion' 'desplazar una casilla'...
+
+
+--Monstruos en combate:
+    --Por orden de iniciativa cada jugador asigna un jugador objetivo a un monstruo. El monstruo perseguira y atacara a su objetivo 
+      hasta que ataque con el.
+
+    --Los monstruos de nivel alto eligen su obetivo al azar y cada 2 turnos con 5+ cambian de objetivo.

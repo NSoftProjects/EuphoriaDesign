@@ -1,7 +1,7 @@
 ->cuando un jugador mata a otro le roba un objeto (o un par agua-comida)
 
 
-->los mazos de armas llevan al 50% armaduras:
+->los mazos de armas llevan armaduras (2:1 armas:armaduras)
             --> lvl1 1/6+
             --> lvl2 1/5+
 
