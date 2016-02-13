@@ -1,0 +1,5 @@
+Miguel: Si vemos que se nos va de precio cortamos el proyecto.
+jose: nooo!! no digas cortar que se nos hunden las acciones. Di rediseñar
+(durante el diseño temprano)
+==========
+miguel: "ahora si tiene sentido lo de los atributos deslizadores"

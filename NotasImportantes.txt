@@ -1,0 +1,15 @@
+--las armas improvisadas (lvl1 y lvl2) pasan a ser armas escondidas por la organizacion que los concursantes pueden buscar. 
+Esto implica que el atributo de improvisar armas pasa a ser algo del tipo 'buscar'. Las trampas siguen siendo improvisaciones
+por lo que seguimos necesitando un atributo de improvisar (es decir, el antiguo improvisar se convierte en dos: Improvisar y Buscar). El cambio es porque a miguel no le convence el arte de las armas improvisadas.
+
+--Quitamos los dibujos de los mazos de trampas. Ahora va un texto descriptivo de lo que te ocurre. Esto en principio fue por reducir costes pero en cuestion de diseño tambien parece mejor ya que da mas versatilidad y permite 'describir' lo que ocurre con exactid estilo eldritch
+
+--las trampas pueden ser 'de uso instantaneo' o que se guarden para usar en momentos determinados. Las que se guarden
+  se guardan como 'objetos de inventario' en mochila y tal.
+
+--Cuando un jugador es victima de una trampa esta se pone en su inventario, en un hueco 'usable' por el personaje
+  (la victima elige) hasta que se descarte la trampa. Si en ese hueco habia un item este queda inutilizado hasta
+  dicho descarte. (se representa colocando la carta de trampa fisicamente encima de la del item)
+
+--tenemos tres tipos de mods a los atribuots: equipo, permanentes y temporales (+ un solo uso). En un mismo mazo
+  solo se pueden mezclar cartas que tengan UNO de los tres primeros y el +1solouso como maximo
